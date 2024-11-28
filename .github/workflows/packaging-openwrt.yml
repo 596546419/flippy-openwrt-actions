@@ -80,6 +80,7 @@ on:
           - ophub/kernel
           - breakings/OpenWrt
           - QXY716/kernel
+          - 596546419/kernel
       auto_kernel:
         description: "Auto use the latest kernel"
         required: false
